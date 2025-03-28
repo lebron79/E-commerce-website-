@@ -1,0 +1,3 @@
+well my project will be a website that sells ai models for frontend we have angular but the backend will be spring boot 
+our main focus here will be on java concepts which are heritage encasuplation polymophrisme etc we have 3 users 
+dev , customer and admin
